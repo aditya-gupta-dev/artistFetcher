@@ -1,2 +1,2 @@
 # artistFetcher
-Not so complicated project that consumes spotify api and displays data
+Uses spotify api to fetch artist details.
